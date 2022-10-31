@@ -1,0 +1,174 @@
+#container {
+     max-width: 1360px !important;
+     margin: 0px auto !important;
+     padding: 0px;
+}
+.container {
+     max-width: 1360px !important;
+     margin: 0px auto !important;
+     padding: 0px;
+}
+
+
+/* testimonial */
+
+
+.testimonial {
+     height: 900px;
+     color: #fff;
+     background: #292E36;
+}
+
+.testimonial .top {
+     padding-top: 145px;
+}
+
+
+.mainBox {
+     max-height: 500px;
+     overflow-x: auto;
+     overflow-y: hidden;
+     display: flex;
+     padding-bottom: 0px;
+     margin-bottom: 0px;
+     margin-left: 0px;
+     padding-left: 0px;
+}
+
+.testimonial h3 {
+     width: 140px;
+     border-top: 1px solid #E1B168;
+     border-bottom: 1px solid #E1B168;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     font-family: 'Josefin Sans';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 17px;
+     line-height: 22px;
+     letter-spacing: 3px;
+     text-transform: uppercase;
+     color: #FFFFFF;
+}
+
+.testimonial h1 {
+     margin-top: 12px;
+     margin-bottom: 8px;
+     font-family: 'Cormorant Infant';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 40px;
+     line-height: 56px;
+     letter-spacing: 0.2px;
+     text-transform: capitalize;
+     color: #FFFFFF;
+
+}
+
+.testimonial p {
+     font-family: 'Josefin Sans';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 30px;
+     letter-spacing: 0.2px;
+     color: #FFFFFF;
+
+}
+
+.testimonial .testBox {
+     margin-right: 30px;
+     margin-bottom: 260px !important;
+     margin-top: 80px;
+     background: #343942;
+     height: 300px;
+     min-width: 540px;
+}
+
+
+
+.insideContainer img {
+     margin-right: 30px;
+}
+
+.insideContainer h2 {
+     margin-top: 35px;
+     font-family: 'Cormorant Infant';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 30px;
+     line-height: 42px;
+     letter-spacing: 0.2px;
+     color: #FFFFFF;
+}
+
+.natashaCon {
+     display: flex;
+     padding-bottom: 30px;
+     border-bottom: 1px solid #797E89;
+}
+
+.natashaCon img {
+     margin-left: 40px;
+}
+
+.insideContainer p {
+     margin-top: 33px;
+     font-family: 'Cormorant Infant';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 38px;
+     margin-left: 40px;
+     letter-spacing: 0.25px;
+
+     color: #FFFFFF;
+}
+
+.insideContainer span {
+     font-family: 'Josefin Sans';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 30px;
+     letter-spacing: 0.2px;
+     color: #E1B168;
+}
+
+.bg__img{
+     background: #292E36;
+}
+/* media  
+
+@media (max-width:1440px) {
+   
+}
+
+@media (max-width:1320px) {
+}
+
+@media (max-width:1220px) {
+
+@media (max-width:1020) {
+
+/*(
+@media (max-width:930){
+     ....
+}
+@media (max-width:810){
+     ....
+} 
+@media (max-width:768px) {
+}
+
+ @media (max-width:620){
+     ....
+}
+@media (max-width:520){
+     ....
+
+@media (max-width:420px){
+} 
+@media screen and (max-width:320px) {
+
+} */

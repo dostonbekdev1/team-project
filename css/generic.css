@@ -1,0 +1,24 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,400;0,500;0,600;0,700;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,500;0,600;0,700;1,600;1,700&display=swap'); */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+a{
+    display: inline-block;
+}
+body{
+    font-family: 'Cormorant Infant', 'Josefin Sans', serif;
+    /* font-family: 'Josefin Sans', sans-serif; */
+}
+.container{
+    max-width: 1360px;
+    margin: 0 auto;
+}
